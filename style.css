@@ -2,13 +2,10 @@
     overflow:hidden;
     position:absolute;
 }
-#pixie {
-	z-index: 2;
-}
+
 
 .logo{
 	position: absolute;
-	z-index: 1;
 	left: 0;
 	right: 0;
 	margin-left: auto;
