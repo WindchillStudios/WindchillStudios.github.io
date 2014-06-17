@@ -3,7 +3,7 @@
     position:absolute;
 }
 #pixie {
-    background:black;
+	z-index: 2;
 }
 
 .logo{
