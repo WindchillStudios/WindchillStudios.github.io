@@ -1,0 +1,23 @@
+#container {
+    overflow:hidden;
+    position:absolute;
+}
+#pixie {
+    background:black;
+}
+
+.logo{
+	position: absolute;
+	z-index: 1;
+	left: 0;
+	right: 0;
+	margin-left: auto;
+	margin-right: auto;
+	top: 300px;
+	width:70%;
+	/*display:none;*/
+}
+
+body{
+	background: black;
+}
